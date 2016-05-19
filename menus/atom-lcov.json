@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    ".tree-view .file": [
+      {
+        "label": "Watch for coverage",
+        "command": "atom-lcov:select"
+      }
+    ]
+  }
+}
