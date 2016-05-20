@@ -4,5 +4,10 @@
 // for a full listing of what's available.
 @import "ui-variables";
 
-.atom-lcov {
+html /deep/ .lcov-covered {
+  .lcov-gutter(@background-color-success);
+}
+
+html /deep/ .lcov-missed {
+  .lcov-gutter(@background-color-error);
 }

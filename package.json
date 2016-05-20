@@ -2,13 +2,13 @@
   "name": "atom-lcov",
   "main": "./lib/atom-lcov",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "See your code’s coverage in the gutter, with live reloading.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-lcov:select"
   },
-  "repository": "https://github.com/atom/atom-lcov",
+  "repository": "https://github.com/taskworld/atom-lcov",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
