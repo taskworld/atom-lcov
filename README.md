@@ -12,6 +12,8 @@ Tested with:
 - [Karma](https://karma-runner.github.io/0.13/index.html) + [babel-plugin-\_\_coverage\_\_](https://github.com/dtinth/babel-plugin-__coverage__)
 
 
+## Usage
+
 ### 1. Write your code and your tests
 
 ![Write your code and your tests](http://i.imgur.com/Wa8SsJY.png)
