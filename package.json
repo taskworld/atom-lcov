@@ -1,10 +1,9 @@
 {
   "name": "atom-lcov",
   "main": "./lib/atom-lcov",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "See your code’s coverage in the gutter, with live reloading.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-lcov:select"
   },
