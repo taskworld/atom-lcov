@@ -4,6 +4,21 @@
 // for a full listing of what's available.
 @import "ui-variables";
 
+.lcov-gutter(@color) {
+  &::after {
+    display: block;
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 8px;
+    height: 8px;
+    margin-top: -4px;
+    background: @color;
+    border-radius: 4px;
+  }
+}
+
 html /deep/ .lcov-covered {
   .lcov-gutter(@background-color-success);
 }
