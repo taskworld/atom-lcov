@@ -1,7 +1,7 @@
 {
   "name": "atom-lcov",
   "main": "./lib/atom-lcov",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "See your code’s coverage in the gutter, with live reloading.",
   "keywords": [],
   "activationCommands": {
