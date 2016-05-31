@@ -1,4 +1,4 @@
-# atom-lcov
+# atom-lcov [![Build Status](https://travis-ci.org/taskworld/atom-lcov.svg?branch=master)](https://travis-ci.org/taskworld/atom-lcov)
 
 This Atom package shows your code’s test coverage in the gutter.
 It guides you towards more code coverage!
