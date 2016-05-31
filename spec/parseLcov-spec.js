@@ -1,5 +1,5 @@
 'use babel'
-
+/* global describe, it, expect */
 import parseLcov from '../lib/parseLcov'
 
 describe('parseLcov', () => {

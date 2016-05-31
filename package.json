@@ -15,5 +15,8 @@
   "dependencies": {
     "rx": "^4.1.0",
     "jquery": "^2"
+  },
+  "devDependencies": {
+    "standard": "^7.1.1"
   }
 }
